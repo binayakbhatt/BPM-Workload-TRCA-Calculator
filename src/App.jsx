@@ -421,7 +421,7 @@ export default function App() {
               </label>
               <input
                 type="text"
-                placeholder="e.g., Machkhowa BO"
+                placeholder="e.g., Atkai BO"
                 value={boName}
                 onChange={(e) => setBoName(e.target.value)}
                 className="w-full px-3 py-2 text-sm border border-slate-300 rounded-lg focus:ring-2 focus:ring-red-600 focus:border-red-600 outline-none"
